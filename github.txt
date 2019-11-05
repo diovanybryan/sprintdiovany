@@ -1,0 +1,17 @@
+fork
+pull request
+merge
+
+control versi
+code review
+
+diffs perbedaan, bandingin lama sama yg bary
+history riwayat, per commit dan push
+comments komen 
+blame melihat sp yg ngecode
+
+kalau ingin mengambil data perlu ppoll rewuedt
+
+Hands On
+
+asjdasldjasldsalkj
